@@ -13,3 +13,10 @@
 | [See in YouTube]() | [See in YouTube]() |
 | By Bravish Ghosh | By Sourav Bera |
 
+## Workshop Sessions
+
+### 1. W01 - Understanding about Git & GitHub
+- Workshop 1 supplements
+  - [YouTube Link](https://www.youtube.com/watch?v=kVDeoSG2UqI&ab_channel=CodeRoom)
+  - [Mastering MarkDown for README files](https://guides.github.com/features/mastering-markdown/)
+  - [W01.pptx](https://github.com/SOACodeRoom/understanding-Git-GitHub/files/6136136/W01.pptx)
